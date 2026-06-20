@@ -102,8 +102,8 @@ pixpress/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Hrishithag/pixpress.git
-cd pixpress
+git clone https://github.com/Hrishithag/Pixpress-Image_caption_generator.git
+cd Pixpress-Image_caption_generator
 ```
 
 ### Install dependencies
