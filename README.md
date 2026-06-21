@@ -35,6 +35,10 @@ Pixpress is an AI-powered image caption generator built using Flask and the Sale
 
 ![Logo](assets/logo.png)
 
+### Generated Caption Example
+
+![Generated Caption](assets/generated_caption.png)
+
 ---
 
 ## Tech Stack
